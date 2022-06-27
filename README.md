@@ -9,7 +9,7 @@
 
 <br>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Septi9&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Septi9&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)&emsp;&emsp;
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Septi9&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
@@ -37,6 +37,6 @@
 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Other**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Other**
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
