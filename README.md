@@ -11,8 +11,8 @@
 
 <p>
   <a href="https://github.com/Septi9/Septi9">
-    <img align="center" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Septi9&layout=compact&theme=merko">
-    <img align="right" height=200px src="https://github-readme-stats.vercel.app/api?username=Septi9&show_icons=true&theme=merko">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Septi9&layout=compact&theme=merko">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Septi9&show_icons=true&theme=merko">
    </a>
 </p>
 
