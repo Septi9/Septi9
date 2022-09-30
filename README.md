@@ -1,56 +1,55 @@
-<h1>Hi, my name is Kamil Rozwałka.</h1> 
+<h1>Hi, my name is Kamil Rozwałka. :wave:</h1> 
 
 <h3>About me</h3>  
 
-- Third-year student of Computer Science. 
-- Specialization in Software Engineering. 
-- Java language fan.          
-- Interested in web applications.
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Septi9&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
+:star: Junior Developer  :computer: :computer_mouse: <br>
+:star: Fourth-year student of Computer Science :books: :mortar_board:   <br>
+:star: Specialization in Software Engineering :gear:    <br>
+:star: Java language fan :coffee:      <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Septi9&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
 ---
-
-
-<br>
-
-    
 
 **Programming Languages**
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,ts)](https://skills.thijs.gg)
+![github](https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logo=oracle&logoColor=white)
+![github](https://img.shields.io/badge/TypeScript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frontend Development**
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,css,sass,html)](https://skills.thijs.gg)
+![github](https://img.shields.io/badge/Angular-dd0330?style=for-the-badge&logo=angular&logoColor=white)
+![github](https://img.shields.io/badge/CSS-214ce5?style=for-the-badge&logo=css3&logoColor=white)
+![github](https://img.shields.io/badge/SASS-cd669a?style=for-the-badge&logo=sass&logoColor=white)
+![github](https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=white)
+![github](https://img.shields.io/badge/Gulp-d04444?style=for-the-badge&logo=gulp&logoColor=white) 
 
-**Backend Development**
+**Backend Development** 
 
-[![My Skills](https://skills.thijs.gg/icons?i=spring)](https://skills.thijs.gg)
+![github](https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white)
 
 **Database**
-
-[![My Skills](https://skills.thijs.gg/icons?i=mysql)](https://skills.thijs.gg)
+ 
+![github](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![github](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+**Testing**
+
+![github](https://img.shields.io/badge/Selenium-00b400?style=for-the-badge&logo=selenium&logoColor=white)
 
 **Devops**
 
-[![My Skills](https://skills.thijs.gg/icons?i=docker)](https://skills.thijs.gg)
+![github](https://img.shields.io/badge/Docker-2497ed?style=for-the-badge&logo=docker&logoColor=white)
 ![github](https://img.shields.io/badge/travisCI-B22222?style=for-the-badge&logo=travis&logoColor=white)
 
-**Software** 
 
-![github](https://img.shields.io/badge/Postman-fd6c35?style=for-the-badge&logo=postman&logoColor=white)
+**Software**
 
+![github](https://img.shields.io/badge/Postman-fd6c35?style=for-the-badge&logo=postman&logoColor=white) 
+![github](https://img.shields.io/badge/Jira-0d65df?style=for-the-badge&logo=jira&logoColor=white)
 
-**Other**
+**Other** 
 
-[![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
+![github](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/Maven-852279?style=for-the-badge&logo=maven&logoColor=white)
+![github](https://img.shields.io/badge/Arduino-00989d?style=for-the-badge&logo=arduino&logoColor=white)
