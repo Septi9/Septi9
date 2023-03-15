@@ -2,9 +2,9 @@
 
 <h3>About me</h3>  
 
-:star: Junior Developer  :computer: :computer_mouse: <br>
-:star: Fourth-year student of Computer Science :books: :mortar_board:   <br>
-:star: Specialization in Software Engineering :gear:    <br>
+:star: Junior developer  :computer: :computer_mouse: <br>
+:star: Computer science engineer :books: :mortar_board:   <br>
+:star: Specialization in software engineering :gear:    <br>
 :star: Java language fan :coffee:      <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Septi9&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,7 +22,6 @@
 ![github](https://img.shields.io/badge/CSS-214ce5?style=for-the-badge&logo=css3&logoColor=white)
 ![github](https://img.shields.io/badge/SASS-cd669a?style=for-the-badge&logo=sass&logoColor=white)
 ![github](https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=white)
-![github](https://img.shields.io/badge/Gulp-d04444?style=for-the-badge&logo=gulp&logoColor=white) 
 
 **Backend Development** 
 
@@ -30,6 +29,7 @@
 
 **Database**
  
+![github](https://img.shields.io/badge/Oracle-c74634?style=for-the-badge&logo=oracle&logoColor=white)
 ![github](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![github](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
