@@ -3,11 +3,10 @@
 <h3>About me</h3>  
 
 :star: Junior developer  :computer: :computer_mouse: <br>
-:star: Computer science engineer :books: :mortar_board:   <br>
+:star: Computer science engineer :mortar_board:   <br>
+:star: Computer science postgraduate student :books:     <br>
 :star: Specialization in software engineering :gear:    <br>
 :star: Java language fan :coffee:      <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Septi9&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
