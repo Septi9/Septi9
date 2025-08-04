@@ -2,7 +2,7 @@
 
 <h3>About me</h3>  
 
-:star: Junior developer  :computer: :computer_mouse: <br>
+:star: Fullstack developer  :computer: :computer_mouse: <br>
 :star: Computer science engineer :mortar_board:   <br>
 :star: Specialization in software engineering :gear:    <br>
 :star: Java language fan :coffee:      <br>
